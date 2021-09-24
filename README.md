@@ -1,4 +1,4 @@
-Digital Poetry - "My Horrible Poem"
+Digital Poetry
 
 My riff on "The Tay Bridge Disaster" by William McGonagall. This poem is considered to be the worst of his all of his poems. I wanted to see if this version could make it better, especially since the poem(s) generated will be randomized. 
 
