@@ -3,7 +3,6 @@
 from textblob import TextBlob
 import nltk
 nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
 
 blob = TextBlob(text)
 
